@@ -1,5 +1,5 @@
 # nycscertweb
 New York Hunter College Teachers Certification 
 
-# Year: 
+# Semester: 
 Summer of 2022
