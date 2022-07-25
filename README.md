@@ -4,7 +4,8 @@ New York Hunter College Teachers Certification
 # Semester: 
 * Summer of 2022
 
-![Alt Text](https://gannon.tv/)
+![Alt Text](https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i)
+
 # What I've been working on during Summer 2022
 
 * Programming in a High Language 
